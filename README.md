@@ -1,6 +1,9 @@
 # BENCH 
 ## Machine Learning with Business One Group
 
+## NBN Jupyter Viewer
+For easy access to my jupyter notebook, please click here [jupyter-notebook](https://nbviewer.jupyter.org/github/williamxnguyen/B1-X-Bench/blob/master/masters_file.ipynb)
+
 ### Introduction
 The engagement with UNSW aims to provide some real world experience to students from UNSW by engaging with business partners in the community (eg) Bench.
 
